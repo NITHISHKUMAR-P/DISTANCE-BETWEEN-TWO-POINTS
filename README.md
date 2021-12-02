@@ -3,10 +3,15 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM: 
-### Step:
+### Step 1:
+Import math module
+### Step 2:
+Assign values as list
+### Step 3:
 Substitute the values in the distance formula  
 ![formula](/formula.JPG)
-
+### Step 4:
+End the program
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
